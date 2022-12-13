@@ -8,7 +8,6 @@ exports.toJson = function (data) {
   let rows = data.split('\n');
   rows.pop();
   var headers = rows[0].split(',');
-  console.log(headers);
   var list = [];
   rows.forEach((row, index) => {
     if (index > 0) {
