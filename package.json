@@ -1,6 +1,6 @@
 {
   "name": "@savas07/csv-convert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "converts csv string",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "json"
   ],
   "author": "savas07",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Savas07/csv-convert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Savas07/csv-convert/issues"
+  },
+  "homepage": "https://github.com/Savas07/csv-convert#readme"
 }
