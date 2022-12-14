@@ -1,6 +1,6 @@
 {
   "name": "@savas07/csv-convert",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "converts csv string",
   "main": "index.js",
   "scripts": {
