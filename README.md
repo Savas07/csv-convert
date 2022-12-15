@@ -7,3 +7,5 @@ const { toJson } = require('@savas07/csv-convert');
 let csvString = 'csv string';
 let json = toJson(csvString);
 ```
+
+# Feel free to contribute
